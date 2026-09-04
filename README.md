@@ -39,3 +39,8 @@ The analytic cohort consists of adults with microscopically confirmed epithelial
 ## License
 
 Code and aggregate outputs are released under the MIT License. SEER data remain subject to the SEER Data-Use Agreement and are not covered by this repository license.
+
+
+## Submission and reproducibility note
+
+This repository supports the manuscript submitted to *Cancers*. The main entry points are `scripts/analyze_primary_urethral_carcinoma.py` for cohort derivation and aggregate statistical outputs, `scripts/make_seer_puc_figures.py` for the publication figures, and the R/Python diagnostic scripts for proportional-hazards and calendar-eligibility checks. The aggregate CSV files in `data/aggregate/` correspond to the tables and figures supplied with the manuscript. Because SEER individual-level records are governed by the SEER Data-Use Agreement, a researcher must obtain authorized access independently; the repository contains no patient-level SEER data. Last verified: 5 September 2026.
