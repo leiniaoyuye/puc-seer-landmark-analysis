@@ -1,0 +1,4 @@
+﻿analysis,landmark,landmark_days,window,window_days,n_at_landmark,urethral_cancer_deaths_within_window,other_cause_deaths_within_window,alive_censored_before_window,observed_to_window_or_event
+Diagnosis years 2004-2018,5-year survivor,1826,1 year,365,720,28,35,50,670
+Diagnosis years 2004-2018,5-year survivor,1826,3 years,1095,720,66,104,141,579
+Diagnosis years 2004-2018,5-year survivor,1826,5 years,1826,720,82,141,221,499

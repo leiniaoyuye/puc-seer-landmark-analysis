@@ -1,0 +1,31 @@
+﻿landmark,landmark_days,window,n,events_for_modelled_cause,outcome,covariate,hazard_ratio,ci95_lower,ci95_upper,p_value
+Diagnosis,0,3 years,2638,828,Urethral cancer death,"Age at diagnosis, per 10 years",1.196,1.127,1.269,0.0
+Diagnosis,0,3 years,2638,828,Urethral cancer death,Male (vs female),0.998,0.862,1.157,0.9822
+Diagnosis,0,3 years,2638,828,Urethral cancer death,Regional stage (vs localized),1.661,1.384,1.993,0.0
+Diagnosis,0,3 years,2638,828,Urethral cancer death,Distant stage (vs localized),4.421,3.674,5.32,0.0
+Diagnosis,0,3 years,2638,828,Urethral cancer death,Unknown stage (vs localized),1.963,1.473,2.617,0.0
+Diagnosis,0,3 years,2638,428,Other-cause death,"Age at diagnosis, per 10 years",1.832,1.661,2.021,0.0
+Diagnosis,0,3 years,2638,428,Other-cause death,Male (vs female),1.39,1.104,1.75,0.00513
+Diagnosis,0,3 years,2638,428,Other-cause death,Regional stage (vs localized),0.934,0.742,1.175,0.55871
+Diagnosis,0,3 years,2638,428,Other-cause death,Distant stage (vs localized),1.688,1.292,2.205,0.00012
+Diagnosis,0,3 years,2638,428,Other-cause death,Unknown stage (vs localized),1.517,1.09,2.11,0.01345
+3-year survivor,1095,3 years,1068,172,Urethral cancer death,"Age at diagnosis, per 10 years",1.21,1.058,1.383,0.00523
+3-year survivor,1095,3 years,1068,172,Urethral cancer death,Male (vs female),0.893,0.648,1.232,0.49176
+3-year survivor,1095,3 years,1068,172,Urethral cancer death,Regional stage (vs localized),1.171,0.826,1.661,0.37484
+3-year survivor,1095,3 years,1068,172,Urethral cancer death,Distant stage (vs localized),2.819,1.848,4.299,0.0
+3-year survivor,1095,3 years,1068,172,Urethral cancer death,Unknown stage (vs localized),1.283,0.678,2.429,0.44375
+3-year survivor,1095,3 years,1068,140,Other-cause death,"Age at diagnosis, per 10 years",1.878,1.582,2.23,0.0
+3-year survivor,1095,3 years,1068,140,Other-cause death,Male (vs female),1.264,0.85,1.879,0.2476
+3-year survivor,1095,3 years,1068,140,Other-cause death,Regional stage (vs localized),0.735,0.499,1.083,0.11974
+3-year survivor,1095,3 years,1068,140,Other-cause death,Distant stage (vs localized),1.025,0.542,1.936,0.94048
+3-year survivor,1095,3 years,1068,140,Other-cause death,Unknown stage (vs localized),1.008,0.536,1.896,0.98071
+5-year survivor,1826,3 years,720,66,Urethral cancer death,"Age at diagnosis, per 10 years",1.257,1.006,1.571,0.04436
+5-year survivor,1826,3 years,720,66,Urethral cancer death,Male (vs female),1.536,0.861,2.741,0.1463
+5-year survivor,1826,3 years,720,66,Urethral cancer death,Regional stage (vs localized),0.753,0.443,1.278,0.29266
+5-year survivor,1826,3 years,720,66,Urethral cancer death,Distant stage (vs localized),0.923,0.36,2.366,0.86821
+5-year survivor,1826,3 years,720,66,Urethral cancer death,Unknown stage (vs localized),0.502,0.121,2.082,0.3421
+5-year survivor,1826,3 years,720,104,Other-cause death,"Age at diagnosis, per 10 years",2.438,1.967,3.021,0.0
+5-year survivor,1826,3 years,720,104,Other-cause death,Male (vs female),1.535,0.949,2.483,0.08046
+5-year survivor,1826,3 years,720,104,Other-cause death,Regional stage (vs localized),0.642,0.407,1.015,0.05776
+5-year survivor,1826,3 years,720,104,Other-cause death,Distant stage (vs localized),1.443,0.709,2.936,0.31217
+5-year survivor,1826,3 years,720,104,Other-cause death,Unknown stage (vs localized),1.251,0.619,2.528,0.5321

@@ -1,0 +1,7 @@
+﻿scenario,landmark,n_at_landmark,unknown_cause_deaths_in_landmark_cohort,cif_urethral_cancer_death_percent,cif_other_cause_death_percent
+Censored at death (primary analysis),Diagnosis,2638,18,33.51,17.39
+Censored at death (primary analysis),5-year survivor,720,7,10.18,16.21
+All assigned to urethral cancer death,Diagnosis,2638,18,33.85,17.35
+All assigned to urethral cancer death,5-year survivor,720,7,10.71,16.14
+All assigned to other-cause death,Diagnosis,2638,18,33.44,17.75
+All assigned to other-cause death,5-year survivor,720,7,10.13,16.72

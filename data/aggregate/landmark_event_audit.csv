@@ -1,0 +1,13 @@
+﻿landmark,landmark_days,window,window_days,n_at_landmark,urethral_cancer_deaths_within_window,other_cause_deaths_within_window,alive_censored_before_window,observed_to_window_or_event
+Diagnosis,0,1 year,365,2638,409,205,121,2517
+Diagnosis,0,3 years,1095,2638,828,428,314,2324
+Diagnosis,0,5 years,1826,2638,972,534,412,2226
+1-year survivor,365,1 year,365,1902,285,137,107,1795
+1-year survivor,365,3 years,1095,1902,506,281,248,1654
+1-year survivor,365,5 years,1826,1902,591,364,340,1562
+3-year survivor,1095,1 year,365,1068,87,58,56,1012
+3-year survivor,1095,3 years,1095,1068,172,140,148,920
+3-year survivor,1095,5 years,1826,1068,210,210,239,829
+5-year survivor,1826,1 year,365,720,28,35,50,670
+5-year survivor,1826,3 years,1095,720,66,104,141,579
+5-year survivor,1826,5 years,1826,720,82,141,221,499

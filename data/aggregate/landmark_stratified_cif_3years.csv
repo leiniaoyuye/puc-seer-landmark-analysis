@@ -1,0 +1,61 @@
+﻿landmark,landmark_days,stratifier,group,window,window_days,n_at_landmark,urethral_cancer_deaths_within_window,other_cause_deaths_within_window,cif_urethral_cancer_death_percent,cif_other_cause_death_percent
+Diagnosis,0,Sex,Male,3 years,1095,1842,563,334,32.56,19.41
+Diagnosis,0,Sex,Female,3 years,1095,796,265,94,35.73,12.7
+Diagnosis,0,Age at diagnosis,18-59,3 years,1095,510,155,30,32.44,6.24
+Diagnosis,0,Age at diagnosis,60-69,3 years,1095,622,185,59,31.8,10.12
+Diagnosis,0,Age at diagnosis,70-79,3 years,1095,782,229,135,31.62,18.95
+Diagnosis,0,Age at diagnosis,80+,3 years,1095,724,259,204,37.69,29.81
+Diagnosis,0,Stage,Localized,3 years,1095,960,197,178,21.77,19.59
+Diagnosis,0,Stage,Regional,3 years,1095,963,290,126,32.63,14.12
+Diagnosis,0,Stage,Distant,3 years,1095,526,280,80,56.87,16.64
+Diagnosis,0,Stage,Unknown,3 years,1095,189,61,44,34.73,25.02
+Diagnosis,0,Histology,Urothelial carcinoma,3 years,1095,1363,442,242,34.39,18.82
+Diagnosis,0,Histology,Squamous cell carcinoma,3 years,1095,660,200,115,32.25,18.69
+Diagnosis,0,Histology,Adenocarcinoma,3 years,1095,418,110,41,29.21,11.07
+Diagnosis,0,Histology,Epithelial NOS,3 years,1095,108,58,18,55.31,17.16
+Diagnosis,0,Histology,Other epithelial carcinoma,3 years,1095,89,18,12,22.12,15.22
+1-year survivor,365,Sex,Male,3 years,1095,1305,328,214,26.91,17.73
+1-year survivor,365,Sex,Female,3 years,1095,597,178,67,32.09,12.19
+1-year survivor,365,Age at diagnosis,18-59,3 years,1095,409,111,24,28.82,6.38
+1-year survivor,365,Age at diagnosis,60-69,3 years,1095,489,125,39,27.47,8.58
+1-year survivor,365,Age at diagnosis,70-79,3 years,1095,557,132,93,25.58,18.2
+1-year survivor,365,Age at diagnosis,80+,3 years,1095,447,138,125,33.06,30.18
+1-year survivor,365,Stage,Localized,3 years,1095,768,160,125,22.09,17.33
+1-year survivor,365,Stage,Regional,3 years,1095,746,206,93,29.92,13.73
+1-year survivor,365,Stage,Distant,3 years,1095,265,107,38,44.32,15.75
+1-year survivor,365,Stage,Unknown,3 years,1095,123,33,25,28.13,21.42
+1-year survivor,365,Histology,Urothelial carcinoma,3 years,1095,979,278,156,30.09,17.03
+1-year survivor,365,Histology,Squamous cell carcinoma,3 years,1095,461,107,68,25.03,16.02
+1-year survivor,365,Histology,Adenocarcinoma,3 years,1095,331,88,33,29.23,11.31
+1-year survivor,365,Histology,Epithelial NOS,3 years,1095,56,20,12,38.22,22.55
+1-year survivor,365,Histology,Other epithelial carcinoma,3 years,1095,75,13,12,19.06,17.81
+3-year survivor,1095,Sex,Male,3 years,1095,737,116,108,16.83,15.85
+3-year survivor,1095,Sex,Female,3 years,1095,331,56,32,17.93,10.32
+3-year survivor,1095,Age at diagnosis,18-59,3 years,1095,270,41,18,16.0,7.04
+3-year survivor,1095,Age at diagnosis,60-69,3 years,1095,299,41,25,14.5,8.9
+3-year survivor,1095,Age at diagnosis,70-79,3 years,1095,302,48,35,17.25,12.67
+3-year survivor,1095,Age at diagnosis,80+,3 years,1095,197,42,62,23.08,34.79
+3-year survivor,1095,Stage,Localized,3 years,1095,488,67,79,14.46,17.22
+3-year survivor,1095,Stage,Regional,3 years,1095,408,61,39,16.06,10.25
+3-year survivor,1095,Stage,Distant,3 years,1095,109,33,11,33.19,11.62
+3-year survivor,1095,Stage,Unknown,3 years,1095,63,11,11,19.03,18.78
+3-year survivor,1095,Histology,Urothelial carcinoma,3 years,1095,541,88,77,17.36,15.34
+3-year survivor,1095,Histology,Squamous cell carcinoma,3 years,1095,263,32,21,12.93,8.54
+3-year survivor,1095,Histology,Adenocarcinoma,3 years,1095,194,42,30,22.91,16.78
+3-year survivor,1095,Histology,Epithelial NOS,3 years,1095,25,4,5,17.19,20.5
+3-year survivor,1095,Histology,Other epithelial carcinoma,3 years,1095,45,6,7,14.76,17.32
+5-year survivor,1826,Sex,Male,3 years,1095,500,51,83,11.29,18.61
+5-year survivor,1826,Sex,Female,3 years,1095,220,15,21,7.63,10.77
+5-year survivor,1826,Age at diagnosis,18-59,3 years,1095,196,15,8,8.26,4.4
+5-year survivor,1826,Age at diagnosis,60-69,3 years,1095,225,19,23,9.65,11.57
+5-year survivor,1826,Age at diagnosis,70-79,3 years,1095,203,20,30,11.32,17.74
+5-year survivor,1826,Age at diagnosis,80+,3 years,1095,96,12,43,13.11,47.64
+5-year survivor,1826,Stage,Localized,3 years,1095,345,37,59,11.63,18.59
+5-year survivor,1826,Stage,Regional,3 years,1095,280,22,27,8.96,11.51
+5-year survivor,1826,Stage,Distant,3 years,1095,58,5,9,9.79,16.49
+5-year survivor,1826,Stage,Unknown,3 years,1095,37,2,9,5.56,27.79
+5-year survivor,1826,Histology,Urothelial carcinoma,3 years,1095,363,41,61,12.51,18.8
+5-year survivor,1826,Histology,Squamous cell carcinoma,3 years,1095,189,10,15,6.0,8.94
+5-year survivor,1826,Histology,Adenocarcinoma,3 years,1095,123,11,21,9.68,19.07
+5-year survivor,1826,Histology,Epithelial NOS,3 years,1095,16,3,3,23.08,21.39
+5-year survivor,1826,Histology,Other epithelial carcinoma,3 years,1095,29,1,4,3.45,15.56

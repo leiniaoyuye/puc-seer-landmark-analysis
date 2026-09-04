@@ -1,0 +1,25 @@
+﻿landmark,outcome,n,events,term,chisq,df,p_value
+Diagnosis,Urethral cancer death,2638,828,age_per_10_years,1.743293817588,1,0.186722018894495
+Diagnosis,Urethral cancer death,2638,828,male,1.39665710244492,1,0.237284083437483
+Diagnosis,Urethral cancer death,2638,828,stage,34.267165700812,3,1.73987949155394e-07
+Diagnosis,Urethral cancer death,2638,828,GLOBAL,39.2304144098881,5,2.13425552539639e-07
+Diagnosis,Other-cause death,2638,428,age_per_10_years,0.283875005823068,1,0.594172575798501
+Diagnosis,Other-cause death,2638,428,male,0.067646528231275,1,0.794794766406036
+Diagnosis,Other-cause death,2638,428,stage,1.31005678826825,3,0.726746388952434
+Diagnosis,Other-cause death,2638,428,GLOBAL,1.84671075996901,5,0.869922826569482
+3-year survivor,Urethral cancer death,1068,172,age_per_10_years,0.372384103713505,1,0.541707586771845
+3-year survivor,Urethral cancer death,1068,172,male,1.13626807149881,1,0.286442286113136
+3-year survivor,Urethral cancer death,1068,172,stage,4.30980389659914,3,0.229895788690498
+3-year survivor,Urethral cancer death,1068,172,GLOBAL,5.38504304681791,5,0.370716021658776
+3-year survivor,Other-cause death,1068,140,age_per_10_years,1.68726336816899,1,0.193962110649592
+3-year survivor,Other-cause death,1068,140,male,1.88463476472212,1,0.169808310196266
+3-year survivor,Other-cause death,1068,140,stage,6.9244157057589,3,0.0743463213948602
+3-year survivor,Other-cause death,1068,140,GLOBAL,10.1052432757328,5,0.0723075580440695
+5-year survivor,Urethral cancer death,720,66,age_per_10_years,0.0124519715036362,1,0.911149768295273
+5-year survivor,Urethral cancer death,720,66,male,0.408084542874798,1,0.522943320221656
+5-year survivor,Urethral cancer death,720,66,stage,1.26563342904759,3,0.737309478111707
+5-year survivor,Urethral cancer death,720,66,GLOBAL,1.6568654682883,5,0.894288534658089
+5-year survivor,Other-cause death,720,104,age_per_10_years,0.560747400074416,1,0.453959260400847
+5-year survivor,Other-cause death,720,104,male,0.429594420631534,1,0.51218802697287
+5-year survivor,Other-cause death,720,104,stage,5.01272720134864,3,0.170867564786368
+5-year survivor,Other-cause death,720,104,GLOBAL,5.79272265216807,5,0.326913256371898

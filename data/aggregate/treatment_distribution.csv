@@ -1,0 +1,7 @@
+﻿Treatment,Category,n,percent
+Surgery,Documented/Yes,1962,74.4
+Surgery,No/unknown or not documented,676,25.6
+Radiation,Documented/Yes,590,22.4
+Radiation,No/unknown or not documented,2048,77.6
+Chemotherapy,Documented/Yes,838,31.8
+Chemotherapy,No/unknown or not documented,1800,68.2

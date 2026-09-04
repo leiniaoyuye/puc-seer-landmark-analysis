@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="502.272pt" viewBox="0 0 416.16 502.272" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-02T02:05:49.842472</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 502.272 
+L 416.16 502.272 
+L 416.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 35.3232 63.30528 
+L 260.3088 63.30528 
+L 260.3088 24.27552 
+L 35.3232 24.27552 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 35.3232 129.168 
+L 260.3088 129.168 
+L 260.3088 90.13824 
+L 35.3232 90.13824 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 35.3232 195.03072 
+L 260.3088 195.03072 
+L 260.3088 156.00096 
+L 35.3232 156.00096 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 35.3232 260.89344 
+L 260.3088 260.89344 
+L 260.3088 221.86368 
+L 35.3232 221.86368 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 35.3232 326.75616 
+L 260.3088 326.75616 
+L 260.3088 287.7264 
+L 35.3232 287.7264 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 35.3232 392.61888 
+L 260.3088 392.61888 
+L 260.3088 353.58912 
+L 35.3232 353.58912 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 147.816 63.30528 
+Q 147.816 76.72176 147.816 88.852501 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 84.852501 
+L 147.816 88.852501 
+L 145.816 84.852501 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 147.816 129.168 
+Q 147.816 142.58448 147.816 154.715221 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 150.715221 
+L 147.816 154.715221 
+L 145.816 150.715221 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 147.816 195.03072 
+Q 147.816 208.4472 147.816 220.577941 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 216.577941 
+L 147.816 220.577941 
+L 145.816 216.577941 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 147.816 260.89344 
+Q 147.816 274.30992 147.816 286.440661 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 282.440661 
+L 147.816 286.440661 
+L 145.816 282.440661 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 147.816 326.75616 
+Q 147.816 340.17264 147.816 352.303381 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 348.303381 
+L 147.816 352.303381 
+L 145.816 348.303381 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 280.3968 95.992704 
+L 388.872 95.992704 
+L 388.872 57.938688 
+L 280.3968 57.938688 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 147.816 76.965696 
+Q 214.1064 76.965696 279.222864 76.965696 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 275.622864 75.165696 
+L 279.222864 76.965696 
+L 275.622864 78.765696 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 280.3968 161.855424 
+L 388.872 161.855424 
+L 388.872 123.801408 
+L 280.3968 123.801408 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 147.816 142.828416 
+Q 214.1064 142.828416 279.222864 142.828416 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 275.622864 141.028416 
+L 279.222864 142.828416 
+L 275.622864 144.628416 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 280.3968 227.718144 
+L 388.872 227.718144 
+L 388.872 189.664128 
+L 280.3968 189.664128 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 147.816 208.691136 
+Q 214.1064 208.691136 279.222864 208.691136 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 275.622864 206.891136 
+L 279.222864 208.691136 
+L 275.622864 210.491136 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 280.3968 293.580864 
+L 388.872 293.580864 
+L 388.872 255.526848 
+L 280.3968 255.526848 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 147.816 274.553856 
+Q 214.1064 274.553856 279.222864 274.553856 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 275.622864 272.753856 
+L 279.222864 274.553856 
+L 275.622864 276.353856 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 280.3968 359.443584 
+L 388.872 359.443584 
+L 388.872 321.389568 
+L 280.3968 321.389568 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 147.816 340.416576 
+Q 214.1064 340.416576 279.222864 340.416576 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+    <path d="M 275.622864 338.616576 
+L 279.222864 340.416576 
+L 275.622864 342.216576 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.05; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 35.3232 463.36032 
+L 388.872 463.36032 
+L 388.872 414.57312 
+L 35.3232 414.57312 
+z
+" clip-path="url(#p702c78a169)" style="fill: #ffffff; stroke: #202020; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 147.816 392.61888 
+Q 147.816 403.596 147.816 413.287381 
+" clip-path="url(#p702c78a169)" style="fill: none; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+    <path d="M 149.816 409.287381 
+L 147.816 413.287381 
+L 145.816 409.287381 
+z
+" clip-path="url(#p702c78a169)" style="fill: #202020; stroke: #202020; stroke-width: 1.15; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="42.123861" transform="rotate(-0 147.816 42.123861)">2,828 malignant primary urethral tumors</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="52.182787" transform="rotate(-0 147.816 52.182787)">SEER 17 Registries, 2004–2023</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="111.864143" transform="rotate(-0 147.816 111.864143)">2,827 adults aged ≥18 years</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="177.715215" transform="rotate(-0 147.816 177.715215)">2,804 non–death-certificate-only cases</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="243.577935" transform="rotate(-0 147.816 243.577935)">2,774 microscopically confirmed tumors</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 8.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="305.498499" transform="rotate(-0 147.816 305.498499)">2,648 eligible epithelial records</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="315.558542" transform="rotate(-0 147.816 315.558542)">ICD-O-3 morphology codes 8010–8576</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="371.495211" transform="rotate(-0 147.816 371.495211)">2,638 unique patients</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.3px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="147.816" y="381.445808" transform="rotate(-0 147.816 381.445808)">Earliest eligible urethral primary retained</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="334.6344" y="73.608196" transform="rotate(-0 334.6344 73.608196)">Excluded</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(312.291338 82.966886)">Age &lt;18 years</text>
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(324.567947 89.693253)">(n = 1)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="334.6344" y="139.470916" transform="rotate(-0 334.6344 139.470916)">Excluded</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(302.039986 148.86141)">Death-certificate-only</text>
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(312.678923 155.587778)">cases (n = 23)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="334.6344" y="205.333636" transform="rotate(-0 334.6344 205.333636)">Excluded</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(311.054728 214.722513)">No microscopic</text>
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(302.900869 221.368022)">confirmation (n = 30)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="334.6344" y="271.196356" transform="rotate(-0 334.6344 271.196356)">Excluded</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(313.539806 280.585233)">Non-epithelial</text>
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(299.062205 287.230742)">morphologies (n = 126)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="334.6344" y="337.059076" transform="rotate(-0 334.6344 337.059076)">Excluded</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(315.0729 346.407523)">Later eligible</text>
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #202020" transform="translate(310.187916 353.133891)">records (n = 10)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="212.0976" y="432.909333" transform="rotate(-0 212.0976 432.909333)">Follow-up status among 2,638 patients</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="212.0976" y="447.226118" transform="rotate(-0 212.0976 447.226118)">Urethral cancer death (n = 1,077)   ·   Other-cause death (n = 734)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #202020" x="212.0976" y="457.95699" transform="rotate(-0 212.0976 457.95699)">Alive (n = 809)   ·   Unknown cause/censored (n = 18)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p702c78a169">
+   <rect x="7.2" y="7.2" width="401.76" height="487.872"/>
+  </clipPath>
+ </defs>
+</svg>
