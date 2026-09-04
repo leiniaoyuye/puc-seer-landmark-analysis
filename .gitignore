@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+data/raw/
+*.txt
+!scripts/*.txt
+*.zip
+*.7z
+*.sas7bdat
+*.csv.tmp

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Conditional competing mortality after primary urethral carcinoma: SEER landmark analysis"
+message: "If you use these materials, please cite the accompanying manuscript."
+type: software
+authors:
+  - family-names: Dai
+    given-names: Yu
+  - family-names: Feng
+    given-names: Yaqiang
+  - family-names: Wang
+    given-names: Cheng
+  - family-names: Zhang
+    given-names: Helin
+  - family-names: Shang
+    given-names: Panfeng
+version: 1.0.0
+date-released: 2026-09-02
+license: MIT
+repository-code: "https://github.com/[username]/puc-seer-landmark-analysis"
